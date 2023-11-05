@@ -1,2 +1,2 @@
-# miprimerrepo
+Andres Rojas
 mi primer repositorio
